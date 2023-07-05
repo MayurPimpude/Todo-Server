@@ -1,0 +1,27 @@
+{
+  "todos": [
+    {
+      "text": "naval",
+      "completed": false,
+      "id": 1,
+      "priority": false
+    },
+    {
+      "text": "hello",
+      "completed": true,
+      "id": 2,
+      "priority": false
+    },
+    {
+      "text": "new",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "text": "test",
+      "completed": false,
+      "id": 4,
+      "priority": false
+    }
+  ]
+}
