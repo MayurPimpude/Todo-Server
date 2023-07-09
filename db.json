@@ -7,12 +7,6 @@
       "priority": false
     },
     {
-      "text": "hello",
-      "completed": true,
-      "id": 2,
-      "priority": false
-    },
-    {
       "text": "new",
       "completed": false,
       "id": 3
